@@ -1,4 +1,4 @@
-# ⚡HotRelaod
+# ⚡HotReload
 Minecraft Plugin DevTools | Auto Reload Plugin
 마인크래프트 플러그인 개발 도구 | 자동 리로드 플러그인
 
